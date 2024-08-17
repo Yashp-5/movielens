@@ -8,12 +8,12 @@ import { createApp } from 'vue';
 Vue.config.productionTip = false;
 
 const firebaseConfig = {   
-  apiKey: "AIzaSyCpWPgKn8cjudatWhCnBdvPDCV6KEJusSU",   
-  authDomain: "movielens-ec769.firebaseapp.com",   
+  apiKey: "",   
+  authDomain: "",   
   projectId: "movielens-ec769",   
-  storageBucket: "movielens-ec769.appspot.com",   
-  messagingSenderId: "366992667846",   
-  appId: "1:366992667846:web:e00d1fb6aedde68c5893c7",  
+  storageBucket: "",   
+  messagingSenderId: "",   
+  appId: "",  
 };
 
 // Initialize Firebase
